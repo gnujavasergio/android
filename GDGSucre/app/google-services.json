@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "904674252883",
+    "firebase_url": "https://gdg-sucre-404c0.firebaseio.com",
+    "project_id": "gdg-sucre-404c0",
+    "storage_bucket": "gdg-sucre-404c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904674252883:android:6a956b17488add8e",
+        "android_client_info": {
+          "package_name": "bo.com.syscode.gdgsucre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904674252883-vh9j70gho819c1rbvt39jue6ji8g4qbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0pVa2x0NunyEbmb0WXCBjLxXM8Tip1u4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
